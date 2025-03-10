@@ -1,7 +1,6 @@
 ﻿
 # Digital Clock
-[Live]([https://example.com](https://digittal-clock.vercel.app/))
-
+<a href="https://example.com](https://digittal-clock.vercel.app/">Live</a>
 <img src="./images/view.png" alt="Screenshot of the Digital Clock" />
 A simple digital clock project built with HTML, CSS, and JavaScript. It displays the current time in a 12-hour format with AM/PM indication, along with the current date in a readable format.
 
